@@ -9,3 +9,4 @@ Watch tutorials on youtube
 ## Local Development
 
 1. open index.html on your browser
+2. have fun
